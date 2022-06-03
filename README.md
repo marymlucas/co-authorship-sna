@@ -7,4 +7,8 @@ Jupyter notebooks with code for final project for INFO623 Spring 2021/2022
 
 Image folder contains visualizations created using Gephi and CiteSpace.
 
-The dataset files are not provided but can be recreated from searching SCOPUS and Web of Science using the queries as described at the top of each notebook.
+The dataset files are not provided with this repo but can be reproduced by searching SCOPUS and Web of Science using the query:
+
+*"AI AND fairness AND healthcare" OR "AI AND bias AND healthcare"*
+ 
+and specifying only the Title, Abstract, or Keywords fields.
