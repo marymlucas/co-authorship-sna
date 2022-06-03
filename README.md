@@ -11,4 +11,6 @@ The dataset files are not provided with this repo but can be reproduced by searc
 
 *"AI AND fairness AND healthcare" OR "AI AND bias AND healthcare"*
  
-and specifying only the Title, Abstract, or Keywords fields.
+and searching only the Title, Abstract, or Keywords fields.
+
+Depending on when you perform the search you may likely end up with more results as more papers are published (or fewer if there are retractions).
