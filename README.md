@@ -1,2 +1,2 @@
-# co-authorship-sna
-Final Project INFO623 Spring 2021/2022
+# Co-authorship Network
+Code for final project for INFO623 Spring 2021/2022
